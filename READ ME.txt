@@ -1,0 +1,1 @@
+Create a folder called CEE and put all the files in it before you put it in your server folder.
