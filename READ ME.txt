@@ -1,1 +1,18 @@
-Create a folder called CEE and put all the files in it before you put it in your server folder.
+Download and install Xampp 
+the link is https://www.apachefriends.org/download.htmlS
+it is what would be used to handle the database
+
+Copy the file named CEE into htdocs
+the file path is Windows(C:)>xampp>htdocs
+
+After that run the installed app named xampp
+click on the button start for Apache and MySQL
+
+Go to your default web browser and type localhost/cee/adminpanel/admin/
+this is for the admin dashboard 
+the username: admin@username
+the password: admin@password
+
+For the student dashboard where the exam would be written
+click on manage examinee and the email is the username and the password is password
+type localhost/cee/ in a new tab and input the required students cridentials 
