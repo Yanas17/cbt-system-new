@@ -3,7 +3,7 @@
                 <div class="app-page-title">
                 <div class="page-title-wrapper">
                     <div class="page-title-heading">
-                        <div><b>RANKING BY EXAM</b></div>
+                        <div><b>FEEDBACKS</b></div>
                     </div>
                 </div>
                 </div> 
